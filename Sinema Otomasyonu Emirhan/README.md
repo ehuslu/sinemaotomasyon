@@ -1,2 +1,0 @@
-# Cinema-app
-Cinema app
